@@ -1,0 +1,121 @@
+
+
+
+
+
+
+div{
+
+ position: static;
+ 
+}
+
+
+
+
+body {
+    position: static;
+    margin: 0;
+    padding: 0;
+    background-image: url( "../img/lakes.JPG");
+    background-size: cover; 
+ 
+}
+
+
+header {
+    width: 80%; 
+    top: 20; 
+    position: fixed;
+    width: 100%;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    background-color: #FFFFFF;
+    border-style: solid;
+    border-width:2px;  
+    border-style:inset;
+    border-color: #FF7958;
+  
+    
+
+}
+
+.content {
+    
+    width: 900px;
+    margin: 0 auto;
+
+   
+
+
+}
+
+
+
+nav {
+    display: inline-block;
+    float: right;
+     
+   
+}
+nav li {
+    display: inline-block;
+    margin-left: 40px;
+    line-height: 80px; 
+   
+}
+nav a {
+color:   #FF7958;
+font-size: 20px; 
+text-decoration: none;
+cursor: pointer;
+font-family: Slabo;
+text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+
+
+}
+
+a:hover {
+
+text-decoration: underline;
+text-decoration-color: #FEA983;
+text-shadow: 0px 4px 4px rgba(248, 216, 185, 0.39);
+
+}
+
+
+
+
+
+#title:hover {
+
+color: #FEA983; 
+}
+
+#title {
+    font-family: Lobster; 
+    font-size: 40px;
+    font-weight: bold;
+    color: #FF7958;
+    text-shadow: 0px 4px 4px rgba(248, 152, 63, 0.39);
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
